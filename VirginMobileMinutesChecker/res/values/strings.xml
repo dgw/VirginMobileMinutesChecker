@@ -43,7 +43,7 @@
     <string name="version">Version: %1$s</string>
     <string name="about_footer"><a href="https://github.com/poundifdef/VirginMobileMinutesChecker">Help out by contributing to this open source project!</a></string>
     <string name="about_activity_title">About the App</string>
-    <string name="about_activity_content">This app takes your virgin mobile account information, logs into the official virgin mobile website and retrieves the same information you could find using their website.  </string>
+    <string name="about_activity_content">This app takes your Virgin Mobile account information, logs into the official Virgin Mobile website and retrieves your account status information right from the source.</string>
     <string name="about_broadcast_listener_title">Minutes Remaining Notifier</string>
     <string name="about_broadcast_listener_content">Every time you complete a call, or refresh the app manually we fetch information about your account, in order to keep your account information current and minimize the amount of work the app does while maximizing battery life on your device.  When you place or receive a call, this service notifies you with the amount of minutes you have remaining.</string>
     <string name="about_pie_widget_title">About the Pie Widget</string>
