@@ -16,6 +16,8 @@
             <TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/about_pie_widget_title" android:id="@+id/about_widget" android:layout_marginTop="5px"></TextView>
             <ImageView android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/about_pie_widget_sample" android:layout_gravity="center_horizontal" android:src="@drawable/widget_sample"></ImageView>
             <TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_marginLeft="15px" android:id="@+id/about_pie_widget_sample_content" android:text="@string/about_pie_widget_content"></TextView>
+            <TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/about_removing_account_title" android:id="@+id/about_removing_account_title" android:layout_marginTop="5px"></TextView>
+            <TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:layout_marginLeft="15px" android:id="@+id/about_removing_account_content" android:text="@string/about_removing_account_content"></TextView>
         </LinearLayout>
     </ScrollView>
     <TextView 
