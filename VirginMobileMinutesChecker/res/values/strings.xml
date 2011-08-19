@@ -27,7 +27,7 @@
     <string name="cancel">Cancel</string>
     <string name="currentBalance">Balance:</string>
     <string name="minutesUsed">Min Used:</string>
-    <string name="chargedOn">Charged On:</string>
+    <string name="chargedOn">Next Charge Due:</string>
     <string name="monthlyCharge">Monthly Charge:</string>
     <string name="addAccountDialogTitle">Add Account</string>
     <string name="areyousure_removenumber">Are you sure you want to remove %1$s?</string>
